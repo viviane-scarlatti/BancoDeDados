@@ -1,5 +1,0 @@
-package br.org.generation.sistemaalunos.dao;
-
-public interface IUsuarioBD {
-
-}

@@ -1,9 +1,0 @@
-package br.org.generation.sistemaalunos.model;
-
-public class Aluno {
-	private int ra;
-	private String nome;
-	private String email;
-	private String telefone;
-	
-}

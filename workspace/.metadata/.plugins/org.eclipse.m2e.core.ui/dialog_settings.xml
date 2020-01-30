@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Generation\Documents\Viviane-Generation\BancoDeDados\workspace\alunos"/>
 			<item value="C:\Users\Generation\Documents\Viviane\workspace\sistemaalunos"/>
 		</list>
 		<list key="projectNameTemplate">
